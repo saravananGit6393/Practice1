@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://marketplace.eclipse.org/">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace | Eclipse Foundation - Explore, share, and collaborate on Eclipse Plugins, Tools, and Extensions. Discover new and popular additions to enhance your Eclipse development experience.</title>
+    <link>https://marketplace.eclipse.org/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Eclipse PKI</title>
+  <link>https://marketplace.eclipse.org/content/eclipse-pki</link>
+  <description>
+&lt;span&gt;Eclipse PKI&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;Public Key Infrastructure Core Package The comprehensive system required to provide public key encryption and digital signature services is known as a **Public Key Infrastructure...&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/jschiavone4pg"&gt;Joe Schiavone&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-03-26T06:38:19-04:00" title="Tuesday, March 26, 2024 - 06:38"&gt;Tue, 03/26/2024 - 06:38&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Tue, 26 Mar 2024 10:38:19 +0000</pubDate>
+    <dc:creator>Joe Schiavone</dc:creator>
+    <guid isPermaLink="false">5795799 at https://marketplace.eclipse.org</guid>
+    <category domain="https://marketplace.eclipse.org/free-tagging/pki">PKI</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/pkcs11">PKCS11</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/pkcs12">PKCS12</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/public-key">Public Key</category>
+    </item>
+<item>
+  <title>Appium Studio for Eclipse</title>
+  <link>https://marketplace.eclipse.org/content/appium-studio-eclipse</link>
+  <description>
+&lt;span&gt;Appium Studio for Eclipse&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;Easily develop, execute, analyze and debug your tests on remote physical devices End-to-end mobile test automation from Eclipse Perform test development, automation project...&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/rzamir"&gt;ruth zamir&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2018-01-18T02:59:34-05:00" title="Thursday, January 18, 2018 - 02:59"&gt;Thu, 01/18/2018 - 02:59&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Thu, 18 Jan 2018 07:59:34 +0000</pubDate>
+    <dc:creator>ruth zamir</dc:creator>
+    <guid isPermaLink="false">3879315 at https://marketplace.eclipse.org</guid>
+    <category domain="https://marketplace.eclipse.org/free-tagging/mobile-app-testing">mobile app testing</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/mobile-application-testing">mobile application testing</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/automation">automation</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/testing">testing</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/test-automation">test automation</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/mobile-test-automation">Mobile Test Automation</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/mobile-testing">mobile testing</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/appium">appium</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/selenium">selenium</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/experitest">experitest</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/appium-testing">appium testing</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/appium-studio">appium studio</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/appium-studio-eclipse">appium studio for eclipse</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/continuous-testing">continuous testing</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/web-testing">web testing</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/cross-browser-testing">cross browser testing</category>
+    </item>
+<item>
+  <title>Checkstyle Plug-in</title>
+  <link>https://marketplace.eclipse.org/content/checkstyle-plug</link>
+  <description>
+&lt;span&gt;Checkstyle Plug-in&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;The Checkstyle Plugin (eclipse-cs) integrates the well-known source code analyzer Checkstyle into the Eclipse IDE. Checkstyle is a development tool to help you ensure that your...&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/ldderitzsch74f"&gt;Lars ödderitzsch&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2005-05-26T21:03:32-04:00" title="Thursday, May 26, 2005 - 21:03"&gt;Thu, 05/26/2005 - 21:03&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Fri, 27 May 2005 01:03:32 +0000</pubDate>
+    <dc:creator>Lars ödderitzsch</dc:creator>
+    <guid isPermaLink="false">150 at https://marketplace.eclipse.org</guid>
+    <category domain="https://marketplace.eclipse.org/free-tagging/static-analysis">static analysis</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/favorite">Favorite</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/validator">validator</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/coding-style">coding style</category>
+    </item>
+<item>
+  <title>Design and Verification Tools (DVT) IDE for e, SystemVerilog, VHDL, and PSS</title>
+  <link>https://marketplace.eclipse.org/content/design-and-verification-tools-dvt-ide-e-systemverilog-vhdl-and-pss</link>
+  <description>
+&lt;span&gt;Design and Verification Tools (DVT) IDE for e, SystemVerilog, VHDL, and PSS&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;Design and Verification Tools (DVT) is an integrated development environment (IDE) for the design and verification engineers working with SystemVerilog, Verilog, VHDL, e, UPF, CPF...&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/emisingname6ia"&gt;AMIQ EDA&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2006-04-19T08:00:18-04:00" title="Wednesday, April 19, 2006 - 08:00"&gt;Wed, 04/19/2006 - 08:00&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Wed, 19 Apr 2006 12:00:18 +0000</pubDate>
+    <dc:creator>AMIQ EDA</dc:creator>
+    <guid isPermaLink="false">192 at https://marketplace.eclipse.org</guid>
+    <category domain="https://marketplace.eclipse.org/free-tagging/ide-hardware-verification-languages">IDE for hardware verification languages</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/design-and-verification">design and verification</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/functional-verification">functional verification</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/hvl">HVL</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/hvls">HVLs</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/vhdl">VHDL</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/verilog">Verilog</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/systemverilog">SystemVerilog</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/uvm">UVM</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/vmm">VMM</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/ovm">OVM</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/e-language">e language</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/amiq">amiq</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/hdl">HDL</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/hdls">HDLs</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/eda">EDA</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_vhd">fileExtension_vhd</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_vhdl">fileExtension_vhdl</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_e">fileExtension_e</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_v">fileExtension_v</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_vh">fileExtension_vh</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_v95">fileExtension_v95</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_v95p">fileExtension_v95p</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_sv">fileExtension_sv</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_sva">fileExtension_sva</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_svh">fileExtension_svh</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_svp">fileExtension_svp</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_svi">fileExtension_svi</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_vams">fileExtension_vams</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_vha">fileExtension_vha</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_vhams">fileExtension_vhams</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_vhms">fileExtension_vhms</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_vhdp">fileExtension_vhdp</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_vhdlp">fileExtension_vhdlp</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_vhcfg">fileExtension_vhcfg</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_vp">fileExtension_vp</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_vs">fileExtension_vs</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_vsh">fileExtension_vsh</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_vlib">fileExtension_vlib</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_vcfg">fileExtension_vcfg</category>
+    </item>
+<item>
+  <title>CodeTogether Live</title>
+  <link>https://marketplace.eclipse.org/content/codetogether-live</link>
+  <description>
+&lt;span&gt;CodeTogether Live&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;Add CodeTogether to Eclipse to live share your IDE and coding sessions. Cross-IDE support for Eclipse, IntelliJ, and VS Code. See changes in real time, even when coding in the same...&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/twebbcke"&gt;Tim Webb&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2020-03-05T15:48:34-05:00" title="Thursday, March 5, 2020 - 15:48"&gt;Thu, 03/05/2020 - 15:48&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Thu, 05 Mar 2020 20:48:34 +0000</pubDate>
+    <dc:creator>Tim Webb</dc:creator>
+    <guid isPermaLink="false">5012014 at https://marketplace.eclipse.org</guid>
+    <category domain="https://marketplace.eclipse.org/free-tagging/pair-programming">pair programming</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/remote">remote</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/collaboration">collaboration</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/team">team</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/team-development">Team Development</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/team-services">team services</category>
+    </item>
+<item>
+  <title>Synopsys Code Sight</title>
+  <link>https://marketplace.eclipse.org/content/synopsys-code-sight</link>
+  <description>
+&lt;span&gt;Synopsys Code Sight&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;Synopsys Code Sight for Eclipse The Synopsys® Code Sight™ plug-in helps you find and fix security and quality issues in your software while you code. It can quickly identify...&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/scodesight"&gt;Synopsys Code Sight&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2019-02-15T16:30:35-05:00" title="Friday, February 15, 2019 - 16:30"&gt;Fri, 02/15/2019 - 16:30&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Fri, 15 Feb 2019 21:30:35 +0000</pubDate>
+    <dc:creator>Synopsys Code Sight</dc:creator>
+    <guid isPermaLink="false">4503269 at https://marketplace.eclipse.org</guid>
+    <category domain="https://marketplace.eclipse.org/free-tagging/sast">SAST</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/security">security</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/blackduck">blackduck</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/coverity">coverity</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/codesight">codesight</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/sca">sca</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/static-analysis">static analysis</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/software-composition-analysis">software composition analysis</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/open-source-analysis">open source analysis</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/black-duck">black duck</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/analysis">analysis</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/code-sight">code sight</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/synopsys">synopsys</category>
+    </item>
+<item>
+  <title>Tabnine - AI assistant &amp; Chat for software developers</title>
+  <link>https://marketplace.eclipse.org/content/tabnine-ai-assistant-chat-software-developers</link>
+  <description>
+&lt;span&gt;Tabnine - AI assistant &amp;amp; Chat for software developers&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;AI assistant for software developers Code faster with AI code completions &amp;amp; Chat What’s Tabnine Tabnine is an AI code assistant that makes you a better developer. Tabnine will...&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/alibeskindmulyan"&gt;Avichay Libesk…&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2023-04-18T09:42:14-04:00" title="Tuesday, April 18, 2023 - 09:42"&gt;Tue, 04/18/2023 - 09:42&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Tue, 18 Apr 2023 13:42:14 +0000</pubDate>
+    <dc:creator>Avichay Libeskind Mulyan</dc:creator>
+    <guid isPermaLink="false">5590071 at https://marketplace.eclipse.org</guid>
+    <category domain="https://marketplace.eclipse.org/free-tagging/code-completion">code completion</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/ai">AI</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/chat">chat</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/ai-assistant">AI Assistant</category>
+    </item>
+<item>
+  <title>Oxygen XML Author</title>
+  <link>https://marketplace.eclipse.org/content/oxygen-xml-author</link>
+  <description>
+&lt;span&gt;Oxygen XML Author&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;Single-Source XML Authoring and Multi-Channel Publishing. Oxygen XML Author sets new standards among content authoring tools, introducing many user-friendly authoring features and...&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/omisingname6n5"&gt;OxygenXML SyncroSoft&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2020-02-11T09:25:09-05:00" title="Tuesday, February 11, 2020 - 09:25"&gt;Tue, 02/11/2020 - 09:25&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Tue, 11 Feb 2020 14:25:09 +0000</pubDate>
+    <dc:creator>OxygenXML SyncroSoft</dc:creator>
+    <guid isPermaLink="false">4981460 at https://marketplace.eclipse.org</guid>
+    </item>
+<item>
+  <title>Oxygen XML Developer</title>
+  <link>https://marketplace.eclipse.org/content/oxygen-xml-developer</link>
+  <description>
+&lt;span&gt;Oxygen XML Developer&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;Intelligent XML Editor. Oxygen XML Developer is the class leading tool dedicated to XML development, focusing on XML source editing, Schema design and XSLT editing/debugging. It...&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/omisingname6n5"&gt;OxygenXML SyncroSoft&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2020-02-11T09:08:01-05:00" title="Tuesday, February 11, 2020 - 09:08"&gt;Tue, 02/11/2020 - 09:08&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Tue, 11 Feb 2020 14:08:01 +0000</pubDate>
+    <dc:creator>OxygenXML SyncroSoft</dc:creator>
+    <guid isPermaLink="false">4981437 at https://marketplace.eclipse.org</guid>
+    </item>
+<item>
+  <title>Oxygen XML Editor</title>
+  <link>https://marketplace.eclipse.org/content/oxygen-xml-editor</link>
+  <description>
+&lt;span&gt;Oxygen XML Editor&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;The Premier All-In-One XML Editing Suite. Oxygen XML Editor is the best XML editor available and provides a comprehensive suite of XML authoring and development tools. It is...&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/omisingname6n5"&gt;OxygenXML SyncroSoft&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2020-02-06T08:55:45-05:00" title="Thursday, February 6, 2020 - 08:55"&gt;Thu, 02/06/2020 - 08:55&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Thu, 06 Feb 2020 13:55:45 +0000</pubDate>
+    <dc:creator>OxygenXML SyncroSoft</dc:creator>
+    <guid isPermaLink="false">4975894 at https://marketplace.eclipse.org</guid>
+    </item>
+
+  </channel>
+</rss>
